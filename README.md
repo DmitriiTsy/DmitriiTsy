@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**DmitriiTsy/DmitriiTsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 🔭 I'm a passionate Front End Developer <br>🎓 I’m a lifelong learner 🎓<br>💬 Ask me about Front End, React, TypeScript<br>
 
