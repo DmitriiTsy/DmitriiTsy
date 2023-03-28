@@ -1,9 +1,6 @@
 #  About Me:
 🔭 I'm a passionate Front End Developer <br>🎓 I’m a lifelong learner <br>💬 Ask me about Front End, React, TypeScript<br>
 
-##  CodeWars top 3%:
-![alt text]([http://url/to/img.png](https://www.codewars.com/users/Darcless95/badges/large))
-
 ##  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dmitrii-frontend) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Dmitriipm) 
 
