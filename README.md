@@ -1,5 +1,5 @@
 #  About Me:
-🔭 I'm a passionate Front End Developer <br>🎓 I’m a lifelong learner <br>💬 Ask me about Front End, React, TypeScript<br>
+🔭 I'm a passionate Front End Developer <br>🎓 I am dedicated to pushing the boundaries of what's possible in software development. With my expertise in creating elegant and efficient user interfaces, I am committed to building responsive and user-friendly web applications that exceed expectations. I am always eager to stay up-to-date with the latest trends and emerging technologies in the industry, and I bring a creative and innovative approach to every project I work on. <br>💬 Ask me about Front End, React, TypeScript<br>
 
 ##  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dmitrii-frontend) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Dmitriipm) 
